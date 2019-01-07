@@ -42,7 +42,7 @@ const person = {
      
     }
 }
-
+// Spread Operator
 const copiedPerson = {...person};
 console.log(copiedPerson);
 
