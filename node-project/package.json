@@ -1,0 +1,16 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "node - ",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server.js"
+  },
+  "author": "Oleksandr_Tkachuk",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+
+  }
+}
