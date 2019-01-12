@@ -71,7 +71,7 @@ setTimeout(() => {
             //return fetchData();
         });
             
-}, 3000);
+}, ****);
 
 console.log('Hello 1');
 console.log('Hello 2');
